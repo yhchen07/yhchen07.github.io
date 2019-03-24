@@ -6,6 +6,6 @@ author_profile: true
 
 ## Published
 
-<b>Yue Xu</b>, Feng Yin, Wenjun Xu, Jiaru Lin, Shuguang Cui. “<b>[Wireless Traffic Prediction with Scalable Gaussian Process: Framework, Algorithms, and Verification](http://gitxuy.github.io/publications/JSAC19)</b> <br>,” in IEEE Journal on Selected Areas in Communications (JSAC), 2019. (accepted; IF=7.172)
+<b>Yue Xu</b>, Feng Yin, Wenjun Xu, Jiaru Lin, Shuguang Cui. “<b>[Wireless Traffic Prediction with Scalable Gaussian Process: Framework, Algorithms, and Verification](http://gitxuy.github.io/publications/JSAC19)</b>,” in IEEE Journal on Selected Areas in Communications (JSAC), 2019. (accepted; IF=7.172)
 
 ## Under Review
