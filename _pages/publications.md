@@ -1,16 +1,11 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=_3u5aKQAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Published
 
-{% include base_path %}
+<b>Yue Xu</b>, Feng Yin, Wenjun Xu, Jiaru Lin, Shuguang Cui. “<b>[Wireless Traffic Prediction with Scalable Gaussian Process: Framework, Algorithms, and Verification](http://gitxuy.github.io/publications/JSAC19)</b> <br>,” in IEEE Journal on Selected Areas in Communications (JSAC), 2019. (accepted; IF=7.172)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Under Review
