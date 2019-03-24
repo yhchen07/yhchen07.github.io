@@ -1,5 +1,14 @@
-I received the B.S. degree from Beijing University of Post and Telecommunication (BUPT) in 2015. I am currently working toward the Ph.D. degree in BUPT. \\
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-I have been a Visiting Researcher with the Department of Electrical and Computer Engineering, University of California, Davis, USA, The Chinese University of Hong Kong, Shenzhen, China, and Shenzhen Research Institute of Big Data. \\
+I am a fourth-year Ph.D. student in the School of Information and Communication Engineering (SICE) in Beijing University of Post and Telecommunication (BUPT), major in Information Communication Engineering (ICE). 
+I received the B.S. degree from BUPT in 2015. I have been a Visiting Researcher with the Department of Electrical and Computer Engineering, University of California, Davis, USA, The Chinese University of Hong Kong, Shenzhen, China, and Shenzhen Research Institute of Big Data. 
 
-My research interests include data-driven wireless network management, machine learning, large-scale data analytics and system control.
+My research interests include machine learning, large-scale data analytics and system control, data-driven wireless network management.
