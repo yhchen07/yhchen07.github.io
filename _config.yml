@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yue XU"
 title_separator          : "-"
 name                     : &name "Yue XU"
-description              : &description "Ph.D. candidate of Information Communication Engineering (ICE), Beijing University of Post and Telecommunication (BUPT)"
+description              : &description "Ph.D. candidate of the School of Information and Communication Engineering (SICE) in Beijing University of Post and Telecommunication (BUPT)"
 url                      : https://gitxuy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gitxuy.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yue XU"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a fourth-year graduate student in the School of Information and Communication Engineering (SICE) in Beijing University of Post and Telecommunication (BUPT), major in Information Communication Engi- neering (ICE). My research interests include machine learning, large-scale data analytics and system control, data-driven wireless network management."
+  location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=_3u5aKQAAAAJ&hl=en"
+  email            : "avexuyue@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Yue_Xu122?ev=hdr_xprf&_sg=i9G889lV4Iu_wDrb6UcIM0Kud8NpOrl4IF0BM5KX8NWbX-vJMGw8WmBYVhV8WIK0kws5XKz7J9Dvv78gKpKqInYi"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,19 +96,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "gitxuy"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
