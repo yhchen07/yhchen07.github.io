@@ -2,12 +2,13 @@
 title: "Wireless Traffic Prediction with Scalable Gaussian Process: Framework, Algorithms, and Verification"
 collection: publications
 permalink: /publications/JSAC19
-venue: "Arxiv"
-date: 2017-10-21
-citation: '<b>Yue Xu</b>, Feng Yin, Wenjun Xu, Jiaru Lin, Shuguang Cui <i>Arxiv</i>.'
+venue: "IEEE Journal on Selected Areas in Communications (JSAC)"
+date: March, 2019
+Authors: '<b>Yue Xu</b>, Feng Yin, Wenjun Xu, Jiaru Lin, Shuguang Cui.'
 ---
 
-[[Arxiv]](<https://arxiv.org/abs/1902.04763>)
+[[IEEE Link]](<https://ieeexplore.ieee.org/document/8664622>)
+[[Arxiv Link]](<https://arxiv.org/abs/1902.04763>)
 
 ## Abstract
 The cloud radio access network (C-RAN) is a promising paradigm to meet the stringent requirements of the fifth generation (5G) wireless systems. Meanwhile, wireless traffic prediction is a key enabler for C-RANs to improve both the spectrum efficiency and energy efficiency through load-aware network managements. This paper proposes a scalable Gaussian process (GP) framework as a promising solution to achieve large-scale wireless traffic prediction in a cost-efficient manner. 
