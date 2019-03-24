@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+<!-- layout: archive -->
+title: "Yue XU 徐越"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[View My Up-to-date Curriculum Vitae Here [PDF]](http://gitxuy.github.io/files/resume-en.pdf)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[查看我的最新简历 [PDF]](http://gitxuy.github.io/files/resume-zh.pdf)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+<!-- <embed src="http://http://gitxuy.github.io/files/resume-en.pdf" width="650" height="1800" type='application/pdf'> -->
+
+
+
+<!-- <embed src="http://http://gitxuy.github.io/files/resume-zh.pdf" width="650" height="1800" type='application/pdf'> -->
