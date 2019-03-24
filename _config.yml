@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yue XU / Ph.D. candidate of Information Communication Engineering (ICE), Beijing University of Post and Telecommunication (BUPT)"
+title                    : "Yue XU"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yue XU"
+description              : &description "Ph.D. candidate of Information Communication Engineering (ICE), Beijing University of Post and Telecommunication (BUPT)"
+url                      : https://gitxuy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
