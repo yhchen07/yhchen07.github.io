@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. candidate"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_3u5aKQAAAAJ&hl=en"
   email            : "avexuyue@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yue_Xu122?ev=hdr_xprf&_sg=i9G889lV4Iu_wDrb6UcIM0Kud8NpOrl4IF0BM5KX8NWbX-vJMGw8WmBYVhV8WIK0kws5XKz7J9Dvv78gKpKqInYi"
