@@ -48,30 +48,30 @@ Hongyan Cui, Shaohua Tang, Fangfang Sun, <b>Yue Xu</b>, Xiaoli Yang. <em>Mathema
 ## Conference
 <b>[Scalable Gaussian Process Using Inexact Admm for Big Data]()</b><br>
 <b>Yue Xu</b>, Feng Yin, Jiawei Zhang, Wenjun Xu, Shuguang Cui, Zhiquan Luo.
-<em>IEEE International Conference on Acoustics, Speech and Signal Processing</em> (<b>ICASSP</b>), 2019. <br>
+<em>IEEE International Conference on Acoustics, Speech and Signal Processing</em> (<b>IEEE ICASSP</b>), 2019. <br>
 [[IEEE Link]](<https://ieeexplore.ieee.org/document/8682350>)
 
 <b>[Distributed Gaussian Process: New Paradigm and Application to Wireless Traffic Prediction]()</b><br>
 <b>Yue Xu</b>, Feng Yin, Wenjun Xu, Jiaru Lin, Shuguang Cui.
-<em>IEEE International Conference on Communications</em> (<b>ICC</b>), 2019. <br>
+<em>IEEE International Conference on Communications</em> (<b>IEEE ICC</b>), 2019. <br>
 [[IEEE Link]](<https://ieeexplore.ieee.org/document/8761264>)
 
 <b>[Deep Reinforcement Learning Based Mobility Load Balancing Under Multiple Behavior Policies]()</b><br>
 <b>Yue Xu</b>, Wenjun Xu, Zhi Wang, Jiaru Lin, Shuguang Cui.
-<em>IEEE International Conference on Communications</em> (<b>ICC</b>), 2019. <br>
+<em>IEEE International Conference on Communications</em> (<b>IEEE ICC</b>), 2019. <br>
 [[IEEE Link]](<https://ieeexplore.ieee.org/document/8761343>)
 
 <b>[Handover Optimization via Asynchronous Multi-User Deep Reinforcement Learning]()</b><br>
 Zhi Wang, Lihua Li, <b>Yue Xu</b>, Hui Tian, Shuguang Cui.
-<em>IEEE International Conference on Communications</em> (<b>ICC</b>), 2018. <br>
+<em>IEEE International Conference on Communications</em> (<b>IEEE ICC</b>), 2018. <br>
 [[IEEE Link]](<https://ieeexplore.ieee.org/document/8422824>)
 
 <b>[High-Accuracy Wireless Traffic Prediction: A GP-Based Machine Learning Approach]()</b><br>
 <b>Yue Xu</b>, Feng Yin, Wenjun Xu, Jiaru Lin, Shuguang Cui.
-<em>IEEE Global Communications Conference</em> (<b>GLOBECOM</b>), 2017. <br>
+<em>IEEE Global Communications Conference</em> (<b>IEEE GLOBECOM</b>), 2017. <br>
 [[IEEE Link]](<https://ieeexplore.ieee.org/document/8254808>)
 
 <b>[Lower-Complexity Power Allocation for LTE-U Systems: A Successive Cap-Limited Water- filling Method]()</b><br>
 Wenjun Xu, Boya Li, <b>Yue Xu</b>,  Jiaru Lin.
-<em>IEEE Vehicular Technology Conference</em> (<b>VTC Spring</b>), 2015. <br>
+<em>IEEE Vehicular Technology Conference</em> (<b>IEEE VTC Spring</b>), 2015. <br>
 [[IEEE Link]](<https://ieeexplore.ieee.org/document/7145923>)
