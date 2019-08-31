@@ -13,7 +13,7 @@ author_profile: true
 
 ## Journal
 <b>[Wireless Traffic Prediction with Scalable Gaussian Process: Framework, Algorithms, and Verification](http://gitxuy.github.io/publications/JSAC19)</b><br>
-<b>Yue Xu</b>, Feng Yin, Wenjun Xu, Jiaru Lin, Shuguang Cui. IEEE Journal on Selected Areas in Communications, vol. 37, no. 6, pp. 1291-1306, June 2019.<br>
+<b>Yue Xu</b>, Feng Yin, Wenjun Xu, Jiaru Lin, Shuguang Cui. <em>IEEE Journal on Selected Areas in Communications</em>(<b>JSAC</b>), vol. 37, no. 6, pp. 1291-1306, June 2019.<br>
 [[IEEE Link]](<https://ieeexplore.ieee.org/document/8664622>)
 [[Arxiv Link]](<https://arxiv.org/abs/1902.04763>)
 
