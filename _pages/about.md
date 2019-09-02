@@ -30,4 +30,4 @@ redirect_from:
 * December 4 - December 8, 2017. I attended the 2017 IEEE Global Communications Conference (IEEE GLOBECOM) in Singapore, and gave a talk on applying Gaussian process to wireless traffic prediction [[Slides]](http://gitxuy.github.io/files/GlobeCom17_GP.pdf).
 * September 12, 2017. A paper was accepted by the IEEE Wireless Communications Magazine.
 * July 15, 2017. A paper was accepted by the IEEE GLOBECOM 2017.
-* March 19 - March 22, 2017. I serve as a volunteer at the IEEE Wireless Communications and Networking Conference (WCNC).
+* March 19 - March 22, 2017. I served as a volunteer at the IEEE Wireless Communications and Networking Conference (WCNC).
