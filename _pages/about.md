@@ -12,22 +12,14 @@ redirect_from:
   <img src="https://gitxuy.github.io//files/XuY.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
-* Hi! I am a fourth-year Ph.D. student in the School of Information and Communication Engineering (SICE) in Beijing University of Post and Telecommunication (BUPT), major in Information Communication Engineering (ICE). 
-* I received my B.S. degree from BUPT in 2015. 
-* I have been a Visiting Researcher with the Department of Electrical and Computer Engineering, University of California, Davis, USA, advised by Prof. [Shuguang Cui](https://faculty.engineering.ucdavis.edu/cui/). I have also been a Visiting Researcher with The Chinese University of Hong Kong, Shenzhen, China, and Shenzhen Research Institute of Big Data. 
-* My research interests include machine learning, large-scale data analytics and system control, data-driven wireless network management.
+* I am currently in my final year at the University of Manchester (UoM), majoring in Psychology (Hons). My research interests are primarily focused on **cognitive neuroscience, pain, and emotions**. Over the past couple of years, I have consistently ranked within the top 1% of my cohort of over 400 people and have maintained a High First Degree.
+* In addition to my academic accomplishments, I have gained extensive experience working in research labs. This experience has provided me with proficiency in a variety of skills, including **participants recruitment, data collection, literature review, manuscripts preparation and presentations**. My toolkit includes E-Prime, SPSS, Qualtrics and Momentary Ecological Assessment.
+* Beyond my studies, I am passionate about supporting **underrepresented** groups. I have been an active member of the Under-represented Student Perspective Panel at UoM for two years, and I devote my spare time to supporting the local LGBTQ+ community.
+* I am set to graduate in 2024 and am currently **seeking a PhD position starting from the fall of 2024**.
 
 # Recent News
-* July 31, 2019. A paper was accepted by the IEEE Internet of Things Journal.
-* July 2, 2019. New preprint: "Voting-Based Multi-Agent Reinforcement Learning." Available on arXiv [[Preprint]](https://arxiv.org/abs/1907.01385).
-* June 22, 2019. A paper was accepted by the IEEE Signal Processing Letters.
-* May 20 - May 24, 2019. I attended the  53rd IEEE International Conference on Communications (ICC) in Shanghai, China, and gave a talk on applying deep reinforcement learning to mobility load balancing [[Slides]](http://gitxuy.github.io/files/ICC2019_DRL.pdf). I also present our work on distributed Gaussian process and its application on wireless traffic prediction [[Poster]](http://gitxuy.github.io/files/ICC2019_GP.pdf).
-* May 12 - May 17, 2019. I attended the 44th International Conference on Acoustics, Speech, and Signal Processing (ICASSP) in Brighton, United Kingdom, and present our work on parallel Gaussian process [[Poster]](http://gitxuy.github.io/files/ICASSP2019_GP.pdf).
-* February 11, 2019. A paper was accepted by the Special Issue of IEEE JSAC on Artificial Intelligence and Machine Learning for Networking and Communications.
-* February 4, 2019. Two papers were accepted by the IEEE ICC 2019.
-* February 2, 2019. A paper was accepted by the IEEE ICASSP 2019.
-* May 31, 2018. A paper was accepted by the IEEE Internet of Things Journal.
-* December 4 - December 8, 2017. I attended the 2017 IEEE Global Communications Conference (IEEE GLOBECOM) in Singapore, and gave a talk on applying Gaussian process to wireless traffic prediction [[Slides]](http://gitxuy.github.io/files/GlobeCom17_GP.pdf).
-* September 12, 2017. A paper was accepted by the IEEE Wireless Communications Magazine.
-* July 15, 2017. A paper was accepted by the IEEE GLOBECOM 2017.
-* March 19 - March 22, 2017. I served as a volunteer at the IEEE Wireless Communications and Networking Conference (WCNC).
+* -	25<sup>th</sup> May 2023: My paper with [Dr. Anna Hood](https://research.manchester.ac.uk/en/persons/anna.hood), "Psychological Wellbeing Predicts Quality of Life among Pakistani Caregivers of Children with Thalassemia," has been [preprint](https://europepmc.org/article/ppr/ppr666556). 
+
+* -	23<sup>rd</sup> May 2023:  My abstract was accepted by European Paediatric Psychology Conference, 2023, to be held in Scotland, United Kingdom.
+
+* -	10<sup>th</sup> October 2022. I attended the 2022 17th Annual Sickle Cell & Thalassaemia Conference and delivered an oral presentation: pain burden predicts executive function in paediatric patients with sickle cell disease in London, United Kingdom [[abstract]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10112594/).
