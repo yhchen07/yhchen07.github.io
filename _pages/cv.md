@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Yue XU 徐越"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
