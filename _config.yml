@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Yue XU"
+locale                   : 
+title                    : "Yuhui (Iris) CHEN"
 title_separator          : "-"
-name                     : &name "Yue XU"
-description              : &description "Ph.D. candidate of the School of Information and Communication Engineering (SICE) in Beijing University of Post and Telecommunication (BUPT)"
-url                      : https://gitxuy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     :
+description              : &description "University of Manchester"
+url                      : https://yhchen07.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gitxuy.github.io"
+repository               : "yhchen07.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yue XU"
+  name             : "Yuhui CHEN"
   avatar           : "xuy_profile.jpg"
-  bio              : "Ph.D. candidate"
-  location         : "Beijing, China"
+  bio              : "University of Manchester"
+  location         : "Manchester, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=_3u5aKQAAAAJ&hl=en"
-  email            : "avexuyue@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Yue_Xu122?ev=hdr_xprf&_sg=i9G889lV4Iu_wDrb6UcIM0Kud8NpOrl4IF0BM5KX8NWbX-vJMGw8WmBYVhV8WIK0kws5XKz7J9Dvv78gKpKqInYi"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=9r1HqcgAAAAJ"
+  email            : "yuhui.chen-2@student.manchester.ac.uk"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gitxuy"
+  github           : "yhchen07"
   google_plus      :
   keybase          :
   instagram        :
