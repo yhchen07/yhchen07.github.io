@@ -1,4 +1,4 @@
-![image](https://github.com/yhchen07/yhchen07.github.io/assets/119499579/be12bd7c-b2d8-43bb-bcf9-1c73afe77b8d)---
+---
 layout: archive
 title: "Projects"
 permalink: /projects/
