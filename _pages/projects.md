@@ -75,6 +75,7 @@ At present, I am writing the manuscript as the **first author**. The [abstract](
   Image from IPESCA: pain map and IPESCA scores distribution
 </center>
 
+
 **Project 2: The Interaction between Pain and Executive Function in Paediatric Patients with SCD**
 
 Emerging evidence suggests that pain can have a negative impact on cognitive functioning, particularly executive function. Pain is the hallmark of Sickle Cell Disease (SCD), yet the interplay between pain intensity and executive function in SCD remains insufficiently explored.
