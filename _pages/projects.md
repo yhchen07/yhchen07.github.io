@@ -18,7 +18,7 @@ Why is depression far more common at lower levels of SES? And, is the surplus of
 As an undergraduate research assistant, I conducted an **extensive literature review** of over 200 articles on MRI, SES, and depression. I also developed an **organized, searchable database** of all relevant articles, which I shared with other members of the research team. Currently, Dr. Hao and I are **co-authoring the manuscript**, which we aim to complete by September for peer review.
 
 <p align="center">
-  <img src="https://yhchen07.github.io//images/1.png?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://yhchen07.github.io//images/Image_Neuroscience.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
 ## Lab: Interpersonal Emotion Regulation Lab, University of Manchester
@@ -30,9 +30,11 @@ As an undergraduate research assistant, I conducted an **extensive literature re
 
 **Project 1: Interpersonal Emotional Regulation in Cross-Cultural Clinical Samples**
 
--	Conducted **thematic analyses** on 2500+ qualitative responses and coded them into quantitative codes.  
--	Utilised **Python** to produce quick calculation on discrepancies between coders, contributed largely to a quick calculation of Cohen’s Kappa.
--	Identified significant between-group differences using Latent Profile Analysis on **E-Prime** as a leader of a team of three undergraduate research assistants. 
+How can we influence the emotions of others? Are there different strategies employed across diverse cultural groups? We investigated these questions by collecting both qualitative and quantitative responses from over 700 participants in the UK, US, and Malaysia.
+
+My responsibilities included conducting **thematic analyses on more than 2500 qualitative responses** and coding them into quantitative codes. I also cleaned and analysed data using **Python**, performed **Latent Profile Analyses using MPlus**, and constructed **correlation and regression models**. Currently, Dr. Lopez-Perez and I are co-authoring two papers on this project. 
+
+My abstract on this topic has been accepted by the **British Psychological Society's Social Psychology Section for their 2023 Annual Conference**.
 
 <p align="center">
   <img src="https://yhchen07.github.io//images/2.png?raw=true" alt="Photo" style="width: 450px;"/>
