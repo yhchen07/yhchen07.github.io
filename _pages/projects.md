@@ -12,6 +12,7 @@ author_profile: true
 **Supervisor**: Dr. Yu (Hannah) Hao, University of Pennsylvania
 
 **Project: Affective Neuroscience of Socioeconomic Status (SES) and its implications for mental health**
+
 Why is depression far more common at lower levels of SES? And, is the surplus of depression at lower SES just more of the same type as depression found at higher levels, or is it distinctive? In this project, we addressed these questions by examining the neural correlates between SES and depression, based on evidence from structural and functional MRI studies.
 
 As an undergraduate research assistant, I conducted an **extensive literature review** of over 200 articles on MRI, SES, and depression. I also developed an **organized, searchable database** of all relevant articles, which I shared with other members of the research team. Currently, Dr. Hao and I are **co-authoring the manuscript**, which we aim to complete by September for peer review.
