@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://gitxuy.github.io//files/XuY.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 -->
-* I am currently in my final year at the University of Manchester (UoM), majoring in Psychology (Hons). My research interests are **social psychology, pain, and emotions**. Over the past couple of years, I have consistently ranked within the **top 1%** of my cohort of over 400 people.
+* I am currently in my final year at the University of Manchester (UoM), majoring in Psychology (Hons). My research interests are **social psychology, mental health, pain, and emotions**. Over the past couple of years, I have consistently ranked within the **top 1%** of my cohort of over 400 people.
 * I have gained extensive experience working in research labs and possess variety of skills, including **participants recruitment, data collection, literature review, manuscripts preparation and presentations**. My toolkit includes MPlus, SPSS, Qualtrics, Python, and Momentary Ecological Assessment.
 * I am passionate about supporting **underrepresented** groups. I have been an active member of the Under-represented Student Perspective Panel at UoM for two years, and I devote my spare time to supporting the local LGBTQ+ community.
 * I am set to graduate in 2024 and am currently **seeking a PhD position starting from the fall of 2024**.
