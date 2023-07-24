@@ -18,12 +18,12 @@ redirect_from:
 * I am set to graduate in 2024 and am currently **seeking a PhD position starting from the fall of 2024**.
 
 # Recent News
-* 12<sup>th</sup> July 2023: My [abstract](https://yhchen07.github.io/files/Frontiers_IPESCA_abstract_new.pdf) was accepted by a special issue, *Women in Science: Pediatric Pain*, on *Frontiers in Pain Research*.
+* 12<sup>th</sup> July 2023: My [abstract](https://yhchen07.github.io/files/Frontiers_IPESCA_abstract_new.pdf) is accepted by a special issue, *Women in Science: Pediatric Pain*, on *Frontiers in Pain Research*. The paper will be submitted to this special issue in October. 
 
-* 22<sup>th</sup> June 2023: My [abstract](https://yhchen07.github.io/files/Social Psych Abstract.pdf) was accepted by Social Psychology Section Annual Conference 2023 as a poster.
+* 22<sup>th</sup> June 2023: My [abstract](https://yhchen07.github.io/files/Social Psych Abstract.pdf) is accepted by the British Psychological Society Social Psychology Section Annual Conference 2023 as a poster.
   
 * 25<sup>th</sup> May 2023: My paper with [Dr. Anna Hood](https://research.manchester.ac.uk/en/persons/anna.hood), "Psychological Wellbeing Predicts Quality of Life among Pakistani Caregivers of Children with Thalassemia," has been [preprint](https://europepmc.org/article/ppr/ppr666556). 
 
-* 23<sup>rd</sup> May 2023:  My [abstract](https://yhchen07.github.io/files/1_EPPC.pdf) was accepted by European Paediatric Psychology Conference, 2023, to be held in Scotland, United Kingdom.
+* 23<sup>rd</sup> May 2023:  My [abstract](https://yhchen07.github.io/files/1_EPPC.pdf) is accepted by European Paediatric Psychology Conference, 2023, to be held in Scotland, United Kingdom.
 
 * 10<sup>th</sup> October 2022. I attended the 2022 17th Annual Sickle Cell & Thalassaemia Conference and delivered an oral presentation: pain burden predicts executive function in paediatric patients with sickle cell disease in London, United Kingdom [[abstract]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10112594/).
