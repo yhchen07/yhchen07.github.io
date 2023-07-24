@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[View My Up-to-date CV Here [PDF]](http://yhchen07.github.io/files/2_CV.pdf)<br>
+[View My Up-to-date CV Here [PDF]](http://yhchen07.github.io/files/CV_Final_N.pdf)<br>
 
 [View My Unofficial Transcript Here [PDF]](http://yhchen07.github.io/files/Grades.pdf)<br>
 
