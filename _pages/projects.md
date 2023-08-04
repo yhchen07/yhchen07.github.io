@@ -15,7 +15,7 @@ author_profile: true
 
 Why is depression far more common at lower levels of SES? And, is the surplus of depression at lower SES just more of the same type as depression found at higher levels, or is it distinctive? In this project, we addressed these questions by examining the neural correlates between SES and depression, based on evidence from structural and functional MRI studies.
 
-In this study, I explored the neural basis of socioeconomic status and its impact on mental health outcomes. This research makes use of methods from neuroscience and psychology, including functional magnetic resonance imaging (fMRI) and self-reported emotion assessments, to gain a better understanding of the relationship between socioeconomic status and mental health. As an undergraduate research assistant, conducted an **extensive literature review** of over 200 articles on MRI, SES, and depression. Currently, Dr. Hao and I are **co-authoring the manuscript**, which we aim to complete by September for peer review.
+In this study, I explored the neural basis of socioeconomic status and its impact on mental health outcomes. This research makes use of methods from neuroscience and psychology, including **functional magnetic resonance imaging (fMRI) and self-reported emotion assessments**, to gain a better understanding of the relationship between socioeconomic status and mental health. As an undergraduate research assistant, conducted an **extensive literature review** of over 200 articles on MRI, SES, and depression. Currently, Dr. Hao and I are **co-authoring the manuscript**, which we aim to complete by September for peer review.
 
 <p align="center">
   <img src="https://yhchen07.github.io//images/Image_Neuroscience.jpg?raw=true" alt="Photo" style="width: 450px;"/>
