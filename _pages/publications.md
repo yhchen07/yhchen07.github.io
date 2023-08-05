@@ -17,7 +17,7 @@ author_profile: true
 ## Manuscripts in Preparation
 -	**Yuhui Chen**, Anna M. Hood, Jamie M. Kawadler, April Slee, Hanne Stotesbury, Melanie Koelbel, Philippa Balfour, Dawn E. Saunders, David Rees, Jo Howard, Baba Inusa, Maria Pelidis, Rachel Kesse-Adu, Subarna Chakravorty, Moji Awogbade, Chris A. Clark, *Fenella J. Kirkham & *Christina Liossi. *In preparation, submitting to Frontiers in Pain Research*. Index of Pain Experience in Sickle Cell Anaemia (IPESCA): Development from daily pain diaries and initial findings from use with children and adults with sickle cell anaemia.
 -	**Yuhui Chen**, Anna M. Hood, Avi Madan-Swain, Deanna D. Rumblc, Tine Vervoort, Lori E. Crosby, Jeffrey Lebensburger, Megan M. Miller, Zina Trost. *In preparation*. Pain inequality and cognition in paediatric patients with sickle cell disease.
--	Yu Hao, **Yuhui Chen**, Martha J. Farah. *In preparation, submitting to Nature Mental Health*. Depression phenotype and risk factors in relation to brain structure or function: relation to SES status.
+-	Yu Hao, **Yuhui Chen**. Depression phenotype and risk factors in relation to brain structure or function: relation to SES status.
 -	Belen Lopez-Perez, **Yuhui Chen**, Shixing Cheng. *In preparation*. Evaluating the correspondence between qualitative and quantitative measures to assess interpersonal emotion regulation strategies in cross-cultural samples.
 -	Belen Lopez-Perez, **Yuhui Chen**, Shixing Cheng. *In preparation*. Identifying subgroups in utilising interpersonal emotion regulation strategies from cross-cultural samples.
   
