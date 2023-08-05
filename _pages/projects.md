@@ -9,7 +9,7 @@ author_profile: true
 
 2023.03 - Current
 
-**Supervisor**: Dr. Yu (Hannah) Hao, University of Pennsylvania
+**Supervisor**: Dr. Yu (Hannah) Hao
 
 **Project: Affective Neuroscience of Socioeconomic Status (SES) and its implications for mental health**
 
