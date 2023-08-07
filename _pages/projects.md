@@ -5,19 +5,24 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Socioeconomic status, brain and depression
+## Socioeconomic status (SES), brain and depression
 
 2023.03 - Current
 
 **Supervisor**: Dr. Yu (Hannah) Hao
 
 **Project 1: Investigating Social Skill in relation to SES and Depression**
-Stress, parenting and executive function are three well-established mediators between SES and depression. Individuals from low-SES background usually exhibit deficits in social skills, such as more frequent use of maladaptive emotion regulation strategies. In addition, depressed individuals exhibit similar social skills deficit as those from lower SES background. However, the role of social skill in relation to SES and depression has not been examined in the academia.
 
-As the project lead, I investigated social skill in relation to SES and depression. This research fills in the research gap of the potential role of social skill in relation to SES and depression. I connceptualised and critically assessed this idea by systematically reviewing over 50 relevant articles. Currently, Dr.Hao and I are **co-authoring the manuscript**, which we aim to complete by September for peer review.
+Stress, parenting, executive function and coping have been established as mediators between SES and depression. Individuals from **low-SES backgrounds** frequently exhibit deficits in social skills, including weaker emotional and self control, along with a greater reliance on maladaptive emotion regulation strategies. Interestingly, these deficits are also commonly found in individuals with **depression**. However, the role of social skills with respect to both SES and depression remains unclear.
 
+As the **project lead**, I sought to fill this research gap by examining the potential influence of social skills on the relationship between SES and depression. I conceptualized and critically assessed this idea by systematically reviewing over 50 relevant articles. Currently, Dr. Hao and I are **co-authoring** the resulting manuscript, which we aim to submit for peer review by September.
+
+<p align="center">
+  <img src="https://yhchen07.github.io//images/Social_Depress.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+</p>
 
 **Project 2: Project 2: Systematic review of brain structure and function underlying depression and socioeconomic status**
+
 Why is depression far more common at lower levels of SES? And, is the surplus of depression at lower SES just more of the same type as depression found at higher levels, or is it distinctive? In this project, we addressed these questions by examining the neural correlates between SES and depression, based on evidence from structural and functional MRI studies.
 
 In this study, I explored the neural basis of socioeconomic status and its impact on mental health outcomes. This research makes use of methods from neuroscience and psychology, including **functional magnetic resonance imaging (fMRI) and self-reported emotion assessments**, to gain a better understanding of the relationship between socioeconomic status and mental health. As an undergraduate research assistant, conducted an **extensive literature review** of over 200 articles on MRI, SES, and depression. Currently, Dr. Hao and I are **co-authoring the manuscript**, which we aim to complete by September for peer review.
