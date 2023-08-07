@@ -21,7 +21,7 @@ As the **project lead**, I sought to fill this research gap by examining the pot
   <img src="https://yhchen07.github.io//images/Social_Depress.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
-**Project 2: Project 2: Systematic review of brain structure and function underlying depression and socioeconomic status**
+**Project 2: Systematic review of brain structure and function underlying depression and socioeconomic status**
 
 Why is depression far more common at lower levels of SES? And, is the surplus of depression at lower SES just more of the same type as depression found at higher levels, or is it distinctive? In this project, we addressed these questions by examining the neural correlates between SES and depression, based on evidence from structural and functional MRI studies.
 
@@ -31,7 +31,19 @@ In this study, I explored the neural basis of socioeconomic status and its impac
   <img src="https://yhchen07.github.io//images/Image_Neuroscience.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
-## Lab: Interpersonal Emotion Regulation Lab, University of Manchester
+
+## Mental and Physiological Strains of Male and Transgender Sex Workers
+
+2023 - Current
+
+**Supervisor**: Dr. Maurice Nagington, University of Manchester
+
+Sex workers face stigmatization and marginalization, resulting in significant mental and physiological burdens. However, male and transgender sex workers have largely been ignored in sex work-related research. Yet, compared to their counterparts, they face significantly more adverse outcomes, including higher rates of HIV infection, double-stigmatization due to their sexual orientation and profession, and policy disadvantages.
+
+In this research, I explored the multiple challenges faced by male and transgender sex workers. This was achieved by collaborating with the local LGBTQ+ community, [(The Men's Room)](https://mroom.co.uk/), and **directly engaging with their service users** to understand their needs and burdens. Additionally, I conducted an extensive **background literature search** of over 100 research articles and generated research outputs. Currently, I am preparing a **first-author manuscript**, which we aim to submit for peer review by September.
+
+
+## Interpersonal Emotion Regulation Lab, University of Manchester
 
 2022.11 - Current
 
@@ -50,6 +62,7 @@ My [abstract](https://yhchen07.github.io//files/Social Psych Abstract.pdf) on th
   <img src="https://yhchen07.github.io//images/IER.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
+
 **Project 2: Changing Others’ Emotions using Ecological Momentary Assessments**
 
 How frequently do people alter others' emotions in their daily lives, and by what strategies? Do they improve how others feel, or worsen their emotional states? In this project, we investigated these questions by assigning participants to engage in a week-long longitudinal study involving Ecological Momentary Assessments three times a day.
@@ -60,7 +73,7 @@ My responsibilities included: **recruitment** - using email, posters, and forums
   <img src="https://yhchen07.github.io//images/Crowd.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
-## Lab: MAGNET LAB, Manchester Centre for Health Psychology 
+## MAGNET LAB, Manchester Centre for Health Psychology 
 
 2022.05 - Current
 
