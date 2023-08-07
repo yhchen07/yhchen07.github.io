@@ -40,7 +40,7 @@ In this study, I explored the neural basis of socioeconomic status and its impac
 
 Sex workers face stigmatization and marginalization, resulting in significant mental and physiological burdens. However, male and transgender sex workers have largely been ignored in sex work-related research. Yet, compared to their counterparts, they face significantly more adverse outcomes, including higher rates of HIV infection, double-stigmatization due to their sexual orientation and profession, and policy disadvantages.
 
-In this research, I explored the multiple challenges faced by male and transgender sex workers. This was achieved by collaborating with the local LGBTQ+ community, [(The Men's Room)](https://mroom.co.uk/), and **directly engaging with their service users** to understand their needs and burdens. Additionally, I conducted an extensive **background literature search** of over 100 research articles and generated research outputs. Currently, I am preparing a **first-author manuscript**, which we aim to submit for peer review by September.
+In this research, I explored the multiple challenges faced by male and transgender sex workers. This was achieved by collaborating with the local LGBTQ+ community, [The Men's Room](https://mroom.co.uk/), and **directly engaging with their service users** to understand their needs and burdens. Additionally, I conducted an extensive **background literature search** of over 100 research articles and generated research outputs. Currently, I am preparing a **first-author manuscript**, which we aim to submit for peer review by September.
 
 
 ## Interpersonal Emotion Regulation Lab, University of Manchester
