@@ -13,7 +13,7 @@ author_profile: true
 
 **Project 1: Investigating Social Skill in relation to SES and Depression**
 
-Stress, parenting, executive function and coping have been established as mediators between SES and depression. Individuals from **low-SES backgrounds** frequently exhibit deficits in social skills, including weaker emotional and self control, along with a greater reliance on maladaptive emotion regulation strategies. Interestingly, these deficits are also commonly found in individuals with **depression**. However, the role of social skills with respect to both SES and depression remains unclear.
+Stress and parenting have been established as mediators between SES and depression. Individuals from **low-SES backgrounds** frequently exhibit deficits in social skills, including weaker emotional and self control, along with a greater reliance on maladaptive emotion regulation strategies. Interestingly, these deficits are also commonly found in individuals with **depression**. However, the role of social skills with respect to both SES and depression remains unclear.
 
 As the **project lead**, I sought to fill this research gap by examining the potential influence of social skills on the relationship between SES and depression. I conceptualized and critically assessed this idea by systematically reviewing over 50 relevant articles. Currently, Dr. Hao and I are **co-authoring** the resulting manuscript, which we aim to submit for peer review by September.
 
