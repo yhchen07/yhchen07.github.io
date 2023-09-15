@@ -20,5 +20,7 @@ author_profile: true
 -	**Yuhui Chen**, Yu Hannah Hao. Social skills deficits as a mediator between SES and depression.
 -	**Yuhui Chen**, Maurice Nagington, Joe Muir. Challenges and Evolution of Male and Transgender Sex Work in the Digital Era.
 -	Yu Hao, **Yuhui Chen**. Depression phenotype and risk factors in relation to brain structure or function: relation to SES status.
+-	Belen Lopez-Perez, **Yuhui Chen**, Shixing Cheng. Evaluating the correspondence between qualitative and quantitative measures to assess interpersonal emotion regulation strategies in cross-cultural samples.
+-	Belen Lopez-Perez, **Yuhui Chen**, Shixing Cheng. Identifying subgroups in utilising interpersonal emotion regulation strategies from cross-cultural samples.
 
   
