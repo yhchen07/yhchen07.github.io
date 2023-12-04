@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Preprint
--	1.	Hood, A. M., Chaman, A., **Chen, Y.**, Mufti. S. Submitted to Paediatric Blood & Cancer, under review. Psychological Wellbeing Predicts Quality of Life among Pakistani Caregivers of Children Living with Thalassemia. DOI: 10.22541/au.168499987.75006938/v1, 25<sup>th</sup> May 2023. Under review by *Journal of Pediatric Nursing*<br>
+-	Hood, A. M., Chaman, A., **Chen, Y.**, Mufti. S. Submitted to Paediatric Blood & Cancer, under review. Psychological Wellbeing Predicts Quality of Life among Pakistani Caregivers of Children Living with Thalassemia. DOI: 10.22541/au.168499987.75006938/v1, 25<sup>th</sup> May 2023. Under review by *Journal of Pediatric Nursing*<br>
 [[Link]](https://europepmc.org/article/ppr/ppr666556)
 
 ## Conference Presentations
