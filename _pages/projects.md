@@ -9,17 +9,13 @@ author_profile: true
 
 2023.03 - Current
 
-**Supervisor**: Dr. Yu (Hannah) Hao
+**Supervisor**: Dr. Yu (Hannah) Hao, Icahn School of Medicine at Mount Sinai
 
 **Project 1: Investigating Social Skill in relation to SES and Depression**
 
 Stress and parenting have been established as mediators between SES and depression. Individuals from **low-SES backgrounds** frequently exhibit deficits in social skills, including weaker emotional and self control, along with a greater reliance on maladaptive emotion regulation strategies. Interestingly, these deficits are also commonly found in individuals with **depression**. However, the role of social skills with respect to both SES and depression remains unclear.
 
-As the **project lead**, I sought to fill this research gap by examining the potential influence of social skills on the relationship between SES and depression. I conceptualized and critically assessed this idea by systematically reviewing over 50 relevant articles. Currently, Dr. Hao and I are **co-authoring** the resulting manuscript, which we aim to submit for peer review by September.
-
-<p align="center">
-  <img src="https://yhchen07.github.io//images/Social_Depress.jpg?raw=true" alt="Photo" style="width: 450px;"/>
-</p>
+As the **project lead**, I sought to fill this research gap by examining the potential influence of social skills on the relationship between SES and depression. I conceptualized and critically assessed this idea by systematically reviewing over 50 relevant articles. Currently, Dr. Hao and I are **co-authoring** the resulting manuscript, which we aim to submit for peer review by December.
 
 **Project 2: Systematic review of brain structure and function underlying depression and socioeconomic status**
 
@@ -49,8 +45,14 @@ In this research, I explored the multiple challenges faced by male and transgend
 
 **Supervisor**: [Dr. Belen Lopez-Perez](https://research.manchester.ac.uk/en/persons/belen.lopez-perez), University of Manchester
 
+**Project 1: Using ChatGPT to Understand People’s Interpersonal Emotion Regulation Strategies**
 
-**Project 1: Interpersonal Emotional Regulation in Cross-Cultural Clinical Samples**
+An important drawback of working with qualitative information is that coding participants’ responses can be extremely tedious and time-consuming. In this context, the emergence of open artificial intelligence (AI) might open a new path for emotion researchers trying to understand whether emotion categorisation can be achieved to performance levels similar to and possibly above the ones observed in humans. 
+
+As the leader of a six-person undergraduate team, I independently **designed and employed instructions** for GPT. I also trained research assistants on scripting and coding, schedule weekly meetings and task allocation. Currently, Dr. Lopez-Perez and I are co-authoring a paper on this project and aim to submit for peer-review in December. 
+
+
+**Project 2: Interpersonal Emotional Regulation in Cross-Cultural Clinical Samples**
 
 How can we influence the emotions of others? Are there different strategies employed across diverse cultural groups? We investigated these questions by collecting both qualitative and quantitative responses from over 700 participants in the UK, US, and Malaysia.
 
@@ -63,7 +65,7 @@ My [abstract](https://yhchen07.github.io//files/Social Psych Abstract.pdf) on th
 </p>
 
 
-**Project 2: Changing Others’ Emotions using Ecological Momentary Assessments**
+**Project 3: Changing Others’ Emotions using Ecological Momentary Assessments**
 
 How frequently do people alter others' emotions in their daily lives, and by what strategies? Do they improve how others feel, or worsen their emotional states? In this project, we investigated these questions by assigning participants to engage in a week-long longitudinal study involving Ecological Momentary Assessments three times a day.
 
