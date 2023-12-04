@@ -12,7 +12,7 @@ author_profile: true
 [[Link]](https://europepmc.org/article/ppr/ppr666556)
 
 ## Conference Presentations
-*Note*:First author as presenting author. 
+*Note*: First author as presenting author. 
 1. **Chen, Y.**  & Hood, A. M. (2022, October). Pain burden Predicts Executive Function in Paediatric Patients with Sickle Cell Disease. Oral presentation at the *17th Annual Scientific Conference on Sickle Cell and Thalassaemia*. London, United Kingdom.
 2. **Chen, Y.**  & Hood, A. M. (2023). Parent-reported Pain Intensity Predicts Cognitive Flexibility in Paediatric Patients with Sickle Cell Disease. Poster presentation at the *European Paediatric Psychology Conference 2023*. University of Stirling, Scotland, United Kingdom.
 3. **Chen, Y.** , Cheng S.,Ajay A., & López-Pérez B. (2023). Evaluating the correspondence between qualitative and quantitative measures to assess interpersonal emotion regulation strategies. Poster presentation at the *British Psychology Society Social Psychology Section Annual Conference 2023.* Scotland, United Kingdom.
