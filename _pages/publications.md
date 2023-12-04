@@ -20,11 +20,11 @@ author_profile: true
 6. Li X., **Chen, Y.**, López-Pérez B. (2023). *Using Artificial Intelligence to Understand People's Interpersonal Emotion Regulation Strategies*. Poster presentation at the International Society for Research on Emotion, Northern Ireland.
 
 ## Manuscripts in Preparation
-1.	Chen, Y., Hao, Y, & López-Pérez B. Socioeconomic status, emotion regulation and depression. (Under review by the second and third authors, expected to submit for publication in December 2023)
-2.	Chen, Y., Nagington, M., & Muir, J. Challenges and Evolution of Male and Transgender Sex Work in the Digital Era. (Under review by the second author, expected to submit for publication in December 2023)
-3.	Chen, Y., Hood, A. M., Kawadler, J. M., Slee, A., Stotesbury, H., Koelbel, M., Balfour, P., Saunders, D. E., Rees, D., Kesse-Adu, R., Chakravorty, S., Awogbade, M., Clark, C. A., Kirkham, F. J., & Liossi, C. Index of Pain Experience in Sickle Cell Anaemia (IPESCA): Development from daily pain diaries and initial findings from use with children and adults with sickle cell anaemia (Submitted to Frontiers in Pain Research, under review)
-4.	Chen, Y., Hood, A. M., Madan-Swain, A., Rumble, D. D., Vervoort, T., Crosby, L. E., Lebensburger, J., Miller, M. M., & Trost, Z. Pain inequality and cognition in paediatric patients with sickle cell disease. (Submitting to Child Neuropsychology)
-5.	Hao, Y., & Chen, Y. Depression phenotype and risk factors in relation to brain structure or function: relation to SES status.
-6.	López-Pérez B., Chen, Y., Li X., & Cheng, S. Using ChatGPT to Understand People’s Interpersonal Emotion Regulation Strategies. (Under review by the first author, expected to submit to Emotion in January 2024)
+1.	**Chen, Y.** , Hao, Y, & López-Pérez B. Socioeconomic status, emotion regulation and depression. (Under review by the second and third authors, expected to submit for publication in December 2023)
+2.	**Chen, Y.** , Nagington, M., & Muir, J. Challenges and Evolution of Male and Transgender Sex Work in the Digital Era. (Under review by the second author, expected to submit for publication in December 2023)
+3.	**Chen, Y.** , Hood, A. M., Kawadler, J. M., Slee, A., Stotesbury, H., Koelbel, M., Balfour, P., Saunders, D. E., Rees, D., Kesse-Adu, R., Chakravorty, S., Awogbade, M., Clark, C. A., Kirkham, F. J., & Liossi, C. Index of Pain Experience in Sickle Cell Anaemia (IPESCA): Development from daily pain diaries and initial findings from use with children and adults with sickle cell anaemia (Submitted to Frontiers in Pain Research, under review)
+4.	**Chen, Y.** , Hood, A. M., Madan-Swain, A., Rumble, D. D., Vervoort, T., Crosby, L. E., Lebensburger, J., Miller, M. M., & Trost, Z. Pain inequality and cognition in paediatric patients with sickle cell disease. (Submitting to Child Neuropsychology)
+5.	Hao, Y., & **Chen, Y.**  Depression phenotype and risk factors in relation to brain structure or function: relation to SES status.
+6.	López-Pérez B., **Chen, Y.** , Li X., & Cheng, S. Using ChatGPT to Understand People’s Interpersonal Emotion Regulation Strategies. (Under review by the first author, expected to submit to Emotion in January 2024)
 
   
