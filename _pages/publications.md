@@ -8,16 +8,17 @@ author_profile: true
 
 
 ## Preprint
--	Hood, A. M., Chaman, A., **Chen, Y.**, Mufti. S. Submitted to Paediatric Blood & Cancer, under review. Psychological Wellbeing Predicts Quality of Life among Pakistani Caregivers of Children Living with Thalassemia. DOI: 10.22541/au.168499987.75006938/v1, 25<sup>th</sup> May 2023. Under review by *Journal of Pediatric Nursing*<br>
+-	Hood, A. M., Chaman, A., **Chen, Y.**, Mufti. S. Submitted to *Journal of Pediatric Nursing*, under review. Psychological Wellbeing Predicts Quality of Life among Pakistani Caregivers of Children Living with Thalassemia. DOI: 10.22541/au.168499987.75006938/v1, 25<sup>th</sup> May 2023.<br>
 [[Link]](https://europepmc.org/article/ppr/ppr666556)
 
 ## Conference Presentations
-1. **Chen, Y.**  & Hood, A. M. (2022, October). *Pain burden Predicts Executive Function in Paediatric Patients with Sickle Cell Disease*. Oral presentation at the 17th Annual Scientific Conference on Sickle Cell and Thalassaemia. London, United Kingdom.
-2. **Chen, Y.**  & Hood, A. M. (2023). *Parent-reported Pain Intensity Predicts Cognitive Flexibility in Paediatric Patients with Sickle Cell Disease*. Poster presentation at the European Paediatric Psychology Conference 2023. University of Stirling, Scotland, United Kingdom.
-3. **Chen, Y.** , Cheng S.,Ajay A., & López-Pérez B. (2023). *Evaluating the correspondence between qualitative and quantitative measures to assess interpersonal emotion regulation strategies*. Poster presentation at the BPS Social Psychology Section Annual Conference 2023. Scotland, United Kingdom.
-4. **Chen, Y.**  & López-Pérez B. (2023). *Exploring the Temporal Dynamics of Motives and Strategies in Daily Interpersonal Affect Worsening*. Oral presentation as one part of Symposium at the International Society for Research on Emotion, Northern Ireland.
-5. López-Pérez B. & **Chen, Y.** (2023). *Understanding the Link between Motives and Strategies in Altruistic and Counter-hedonic Interpersonal Affect Worsening*. Oral presentation at the Society for Affective Science, New Orleans, USA.
-6. Li X., **Chen, Y.**, López-Pérez B. (2023). *Using Artificial Intelligence to Understand People's Interpersonal Emotion Regulation Strategies*. Poster presentation at the International Society for Research on Emotion, Northern Ireland.
+*Note*:First author as presenting author. 
+1. **Chen, Y.**  & Hood, A. M. (2022, October). Pain burden Predicts Executive Function in Paediatric Patients with Sickle Cell Disease. Oral presentation at the *17th Annual Scientific Conference on Sickle Cell and Thalassaemia*. London, United Kingdom.
+2. **Chen, Y.**  & Hood, A. M. (2023). Parent-reported Pain Intensity Predicts Cognitive Flexibility in Paediatric Patients with Sickle Cell Disease. Poster presentation at the *European Paediatric Psychology Conference 2023*. University of Stirling, Scotland, United Kingdom.
+3. **Chen, Y.** , Cheng S.,Ajay A., & López-Pérez B. (2023). Evaluating the correspondence between qualitative and quantitative measures to assess interpersonal emotion regulation strategies. Poster presentation at the *British Psychology Society Social Psychology Section Annual Conference 2023.* Scotland, United Kingdom.
+4. **Chen, Y.**  & López-Pérez B. (2023). Exploring the Temporal Dynamics of Motives and Strategies in Daily Interpersonal Affect Worsening. Oral presentation as one part of Symposium at the *International Society for Research on Emotion*, Northern Ireland.
+5. López-Pérez B. & **Chen, Y.** (2023). Understanding the Link between Motives and Strategies in Altruistic and Counter-hedonic Interpersonal Affect Worsening*. Oral presentation at the *Society for Affective Science*, New Orleans, USA.
+6. Li X., **Chen, Y.**, López-Pérez B. (2023). Using Artificial Intelligence to Understand People's Interpersonal Emotion Regulation Strategies. Poster presentation at the *International Society for Research on Emotion*, Northern Ireland.
 
 ## Manuscripts in Preparation
 1.	**Chen, Y.** , Hao, Y, & López-Pérez B. Socioeconomic status, emotion regulation and depression. (Under review by the second and third authors, expected to submit for publication in December 2023)
