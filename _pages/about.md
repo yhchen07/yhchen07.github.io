@@ -18,7 +18,7 @@ redirect_from:
 * I am set to graduate in 2024 and am currently **seeking a PhD/mPhil position starting from the fall of 2024**.
 
 # Recent News
-*25<sup>th</sup> November 2023: I am nominated as the Best Psychology Student of the Year 2023 at the University of Manchester. 
+* 25<sup>th</sup> November 2023: I am nominated as the Best Psychology Student of the Year 2023 at the University of Manchester. 
 
 * 12<sup>th</sup> July 2023: My [abstract](https://yhchen07.github.io/files/Frontiers_IPESCA_abstract_new.pdf) is accepted by a special issue, *Women in Science: Pediatric Pain*, on *Frontiers in Pain Research*. The paper will be submitted to this special issue in December. 
 
