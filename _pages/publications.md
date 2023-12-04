@@ -3,10 +3,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Published Abstract
+- **Chen, Y.**, Hood, A. M., Kölbel, M., Stotesbury, H., Kawadler, J., Slee, A., Inusa, B., Pelidis, M., Howard, J., Chakravorty, S., Height, S., Awogbade, M., Kirkham F. J., & Liossi C. Pain Burden Predicts Executive Function in Patients with Sickle Cell Disease. HemaSphere 7(S1): p 11, April 2023. DOI: 10.1097/01.HS9.0000928208.78994.35
 
 
 ## Preprint
--	Anna M. Hood, Aqsa Chaman, **Yuhui Chen**, Sarah Mufti. Submitted to Paediatric Blood & Cancer, under review. Psychological Wellbeing Predicts Quality of Life among Pakistani Caregivers of Children Living with Thalassemia. DOI: 10.22541/au.168499987.75006938/v1, 25<sup>th</sup> May 2023. Under review by *Journal of Pediatric Nursing*<br>
+-	1.	Hood, A. M., Chaman, A., **Chen, Y.**, Mufti. S. Submitted to Paediatric Blood & Cancer, under review. Psychological Wellbeing Predicts Quality of Life among Pakistani Caregivers of Children Living with Thalassemia. DOI: 10.22541/au.168499987.75006938/v1, 25<sup>th</sup> May 2023. Under review by *Journal of Pediatric Nursing*<br>
 [[Link]](https://europepmc.org/article/ppr/ppr666556)
 
 ## Conference Presentations
