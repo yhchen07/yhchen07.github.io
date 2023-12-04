@@ -42,10 +42,6 @@ Sex workers face stigmatization and marginalization, resulting in significant me
 
 In this research, I explored the multiple challenges faced by male and transgender sex workers. This was achieved by collaborating with the local LGBTQ+ community, [The Men's Room](https://mroom.co.uk/), and **directly engaging with their service users** to understand their needs and burdens. Additionally, I conducted an extensive **background literature search** of over 100 research articles and generated research outputs. Currently, I am preparing a **first-author manuscript**, which we aim to submit for peer review by September.
 
-<p align="center">
-  <img src="https://yhchen07.github.io//images/Pride_Flag.jpg?raw=true" alt="Photo" style="width: 450px;"/>
-</p>
-
 
 ## Interpersonal Emotion Regulation Lab, University of Manchester
 
