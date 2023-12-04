@@ -17,6 +17,10 @@ Stress and parenting have been established as mediators between SES and depressi
 
 As the **project lead**, I sought to fill this research gap by examining the potential influence of social skills on the relationship between SES and depression. I conceptualized and critically assessed this idea by systematically reviewing over 50 relevant articles. Currently, Dr. Hao and I are **co-authoring** the resulting manuscript, which we aim to submit for peer review by December.
 
+<p align="center">
+  <img src="https://yhchen07.github.io//images/Social_SES.png?raw=true" alt="Photo" style="width: 450px;"/>
+</p>
+
 **Project 2: Systematic review of brain structure and function underlying depression and socioeconomic status**
 
 Why is depression far more common at lower levels of SES? And, is the surplus of depression at lower SES just more of the same type as depression found at higher levels, or is it distinctive? In this project, we addressed these questions by examining the neural correlates between SES and depression, based on evidence from structural and functional MRI studies.
@@ -37,6 +41,10 @@ In this study, I explored the neural basis of socioeconomic status and its impac
 Sex workers face stigmatization and marginalization, resulting in significant mental and physiological burdens. However, male and transgender sex workers have largely been ignored in sex work-related research. Yet, compared to their counterparts, they face significantly more adverse outcomes, including higher rates of HIV infection, double-stigmatization due to their sexual orientation and profession, and policy disadvantages.
 
 In this research, I explored the multiple challenges faced by male and transgender sex workers. This was achieved by collaborating with the local LGBTQ+ community, [The Men's Room](https://mroom.co.uk/), and **directly engaging with their service users** to understand their needs and burdens. Additionally, I conducted an extensive **background literature search** of over 100 research articles and generated research outputs. Currently, I am preparing a **first-author manuscript**, which we aim to submit for peer review by September.
+
+<p align="center">
+  <img src="https://yhchen07.github.io//images/Pride Flag.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+</p>
 
 
 ## Interpersonal Emotion Regulation Lab, University of Manchester
@@ -69,7 +77,7 @@ My [abstract](https://yhchen07.github.io//files/Social Psych Abstract.pdf) on th
 
 How frequently do people alter others' emotions in their daily lives, and by what strategies? Do they improve how others feel, or worsen their emotional states? In this project, we investigated these questions by assigning participants to engage in a week-long longitudinal study involving Ecological Momentary Assessments three times a day.
 
-My responsibilities included: **recruitment** - using email, posters, and forums to enlist 200 individuals for an intensive week-long study; **supervising the coordination and tracking** of participant engagement to maintain a participation rate of over 50%; and cleaning and analyzing longitudinal data using **Python and Two-Level Dynamic Structural Equation Models**.
+My responsibilities included: **recruitment** - using email, posters, and forums to enlist more than 300 individuals for an intensive week-long study; **supervising the coordination and tracking** of participant engagement to maintain a participation rate of over 50%; and cleaning and analyzing longitudinal data using **Python and Two-Level Dynamic Structural Equation Models**.
 
 <p align="center">
   <img src="https://yhchen07.github.io//images/Crowd.jpg?raw=true" alt="Photo" style="width: 450px;"/>
