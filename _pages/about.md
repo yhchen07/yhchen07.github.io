@@ -16,7 +16,7 @@ redirect_from:
 * I am passionate about supporting **underrepresented** groups. I have been an active member of the Under-represented Student Perspective Panel at UoM for two years, and I devote my spare time to supporting the local LGBTQ+ community.
 * I am set to graduate in 2024 and am currently **seeking a PhD position starting from the fall of 2024**.
 
-You can view my [writing sample](http://yhchen07.github.io/files/WS.pdf) and [CV](http://yhchen07.github.io/files/CV.pdf) here.
+You can view my [writing sample](http://yhchen07.github.io/files/WS.pdf) and [CV](http://yhchen07.github.io/files/CV_CUHK.pdf) here.
 
 # Recent News
 * 25<sup>th</sup> November 2023: I am nominated as the Best Psychology Student of the Year 2023 at the University of Manchester. 
